@@ -4,12 +4,12 @@ requires = ["flit_core >=2,<4"]
 build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
-module = ""
+module = "cleye"
 author = "deathbeds"
-author-email = ""
-requires = []
+author-email = "tony.fast@gmail.com"
+requires = ["click"]
 keywords = []
-home-page = ""
+home-page = "https://github.com/deathbeds/cleye"
 license = ""
 description-file = "readme.md"
 
